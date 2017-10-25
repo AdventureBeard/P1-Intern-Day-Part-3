@@ -8,3 +8,4 @@ Modify user registration to satisfy the following requirements:
 
 
 
+![](https://i.redd.it/ypdufrd1mmqz.jpg)
