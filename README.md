@@ -7,4 +7,4 @@ Modify user registration to satisfy the following requirements:
 * The photo should be received by the backend web service and persisted.
 
 
-Are the requirements ambiguous? Ask questions that will help you drive your product to "DONE"!
+
